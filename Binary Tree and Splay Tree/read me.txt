@@ -1,0 +1,15 @@
+I use C++ to finish the assignment.
+These are the libary I use in the assignment.
+
+#include "program assignment1.h"
+#include<iostream>
+#include<fstream>
+#include <math.h>
+#include <vector>
+#include <stack>
+#include <bits/stdc++.h>
+
+I directly read the file "input.txt" in my cpp file "program assignment1.cpp".
+If you want to test another case, please modify the source code to change the input file. 
+
+It's in the 63rd row "  ifstream fin("please put the file you want to test.txt");  " .
